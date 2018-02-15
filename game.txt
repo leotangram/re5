@@ -1,0 +1,5 @@
+Version actual (2018) de Bootstrap (Solo el numero de Versión); 4
+Siglas de Programación Orientada a Objetos (Las siglas van en mayúsculas); POO
+Nombre del Mentor que nos revisa los proyectos (Solo las primeras 4 letras del nombre, la primera en mayúscula); Jeff 
+Primer nombre del creador de Ruby on Rails (Primera letra en mayúscula); David
+Apellido del creador de Ruby (Primera letra en mayúscula); Matsumoto
